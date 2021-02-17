@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/radon-subdomain/static/css/main.e116a45e.chunk.css",
+    "main.js": "/radon-subdomain/static/js/main.566bfec3.chunk.js",
+    "main.js.map": "/radon-subdomain/static/js/main.566bfec3.chunk.js.map",
+    "runtime-main.js": "/radon-subdomain/static/js/runtime-main.e9fca8c5.js",
+    "runtime-main.js.map": "/radon-subdomain/static/js/runtime-main.e9fca8c5.js.map",
+    "static/js/2.4bcd4b7b.chunk.js": "/radon-subdomain/static/js/2.4bcd4b7b.chunk.js",
+    "static/js/2.4bcd4b7b.chunk.js.map": "/radon-subdomain/static/js/2.4bcd4b7b.chunk.js.map",
+    "static/js/3.e78a83f2.chunk.js": "/radon-subdomain/static/js/3.e78a83f2.chunk.js",
+    "static/js/3.e78a83f2.chunk.js.map": "/radon-subdomain/static/js/3.e78a83f2.chunk.js.map",
+    "index.html": "/radon-subdomain/index.html",
+    "static/css/main.e116a45e.chunk.css.map": "/radon-subdomain/static/css/main.e116a45e.chunk.css.map",
+    "static/js/2.4bcd4b7b.chunk.js.LICENSE.txt": "/radon-subdomain/static/js/2.4bcd4b7b.chunk.js.LICENSE.txt",
+    "static/media/jetpack.7de9e135.svg": "/radon-subdomain/static/media/jetpack.7de9e135.svg",
+    "static/media/mars-surface.48da6094.svg": "/radon-subdomain/static/media/mars-surface.48da6094.svg",
+    "static/media/retro-rocket.2b6e2c9f.svg": "/radon-subdomain/static/media/retro-rocket.2b6e2c9f.svg",
+    "static/media/rover.745f9366.svg": "/radon-subdomain/static/media/rover.745f9366.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9fca8c5.js",
+    "static/js/2.4bcd4b7b.chunk.js",
+    "static/css/main.e116a45e.chunk.css",
+    "static/js/main.566bfec3.chunk.js"
+  ]
+}
