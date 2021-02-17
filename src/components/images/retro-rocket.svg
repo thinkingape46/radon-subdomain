@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3.306mm"
+   height="10.354mm"
+   viewBox="0 0 3.306 10.354"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="retro-rocket.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.839192"
+     inkscape:cx="8.6842228"
+     inkscape:cy="17.977013"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer3"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-nodes="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="retro-engines"
+     style="display:inline;opacity:1">
+    <g
+       id="g880">
+      <path
+         style="opacity:1;fill:#ffa412;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 5.6092002e-7,5.0420333e-7 0.42004356,3.6729665 l 0.491648,3.493706 0.29629104,1.773207 0.408951,1.4137925 0.333168,-1.4112985 0.259265,-1.690372 0.639234,-3.690648 0.457567,-3.53666 z"
+         id="path858"
+         sodipodi:nodetypes="cccccccccc" />
+      <path
+         style="display:inline;opacity:1;fill:#ffc466;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 0.27880256,0.0731555 0.355435,2.76298 0.40748504,2.627155 0.242048,1.3329 0.32312,1.060899 0.236064,-1.06689 0.17742,-1.276378 0.442501,-2.787535 0.307254,-2.669585 z"
+         id="path858-1"
+         sodipodi:nodetypes="cccccccccc" />
+      <path
+         style="display:inline;opacity:1;fill:#f6d9a8;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 0.70402556,0.0679725 0.243485,1.89274 0.27914204,1.799695 0.165811,0.913083 0.221349,0.726754 0.161712,-0.730857 0.12154,-0.874364 0.303128,-1.909561 0.210481,-1.828761 z"
+         id="path858-9"
+         sodipodi:nodetypes="cccccccccc" />
+    </g>
+  </g>
+</svg>
